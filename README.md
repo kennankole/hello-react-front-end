@@ -83,9 +83,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link to Rails backend <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live To Rails backend](https://github.com/kennankole/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
